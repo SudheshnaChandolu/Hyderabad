@@ -33,11 +33,7 @@ ul {
   li a:hover {
     background-color: #111;
   }
-  .center {
-    display: block;
-    padding-left: 20px;
-    width: 25%;
-  }
+  
   * {
     box-sizing: border-box;
   }
